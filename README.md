@@ -48,4 +48,4 @@ Key Features:
   Custom CNN model
 
   Home Page: 
-![image]([[https://github.com/user-attachments/assets/a641e72e-bfa2-40dc-9012-0e8019b13626](https://github.com/omsalokhe/Fake_Ai_Generated_Image-Text_Detector/blob/0d2b7a25b9611917bde227afb8de3dc6103caed8/006f5910-8d7b-4a69-9dec-60d70d38c703.jfif)](https://raw.githubusercontent.com/omsalokhe/Fake_Ai_Generated_Image-Text_Detector/refs/heads/main/006f5910-8d7b-4a69-9dec-60d70d38c703.jfif))
+![image]([[[https://github.com/user-attachments/assets/a641e72e-bfa2-40dc-9012-0e8019b13626](https://github.com/omsalokhe/Fake_Ai_Generated_Image-Text_Detector/blob/0d2b7a25b9611917bde227afb8de3dc6103caed8/006f5910-8d7b-4a69-9dec-60d70d38c703.jfif)](https://raw.githubusercontent.com/omsalokhe/Fake_Ai_Generated_Image-Text_Detector/refs/heads/main/006f5910-8d7b-4a69-9dec-60d70d38c703.jfif)](https://github.com/omsalokhe/Fake_Ai_Generated_Image-Text_Detector/blob/499b3267e83eb2a26be6c8846ee26c505884c7bc/image.png))
