@@ -48,4 +48,5 @@ Key Features:
   Custom CNN model
 
   Home Page: 
+  
   ![image](https://github.com/omsalokhe/Fake_Ai_Generated_Image-Text_Detector/blob/028acd966783e9d763566e87219f80124e884352/image.png)
