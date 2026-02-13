@@ -49,4 +49,16 @@ Key Features:
 
   Home Page: 
   
-  ![image](https://github.com/omsalokhe/Fake_Ai_Generated_Image-Text_Detector/blob/028acd966783e9d763566e87219f80124e884352/image.png)
+  ![image](https://github.com/omsalokhe/Fake_Ai_Generated_Image-Text_Detector/blob/6372a73a25d9b8dd6c5547952c396c345855feea/images/output1.png)
+
+  
+  ![image](https://github.com/omsalokhe/Fake_Ai_Generated_Image-Text_Detector/blob/6372a73a25d9b8dd6c5547952c396c345855feea/images/output2.png)
+
+  
+  ![image](https://github.com/omsalokhe/Fake_Ai_Generated_Image-Text_Detector/blob/6372a73a25d9b8dd6c5547952c396c345855feea/images/output3.png)
+
+  
+  ![image](https://github.com/omsalokhe/Fake_Ai_Generated_Image-Text_Detector/blob/6372a73a25d9b8dd6c5547952c396c345855feea/images/userinterface1.png)
+
+  
+  ![image](https://github.com/omsalokhe/Fake_Ai_Generated_Image-Text_Detector/blob/6372a73a25d9b8dd6c5547952c396c345855feea/images/userinterface2.png)
