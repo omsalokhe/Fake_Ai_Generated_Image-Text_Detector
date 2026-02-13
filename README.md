@@ -62,3 +62,51 @@ Key Features:
 
   
   ![image](https://github.com/omsalokhe/Fake_Ai_Generated_Image-Text_Detector/blob/6372a73a25d9b8dd6c5547952c396c345855feea/images/userinterface2.png)
+
+
+# To run the Fake AI Generated Image-Text Detector project from GitHub, follow these steps to set up the environment and launch the application on your local machine:
+ 
+# 1. Clone the Repository
+  Open your terminal or command prompt and clone the project to your computer using the following command:
+  
+  Bash
+  git clone https://github.com/omsalokhe/Fake_Ai_Generated_Image-Text_Detector.git
+  cd Fake_Ai_Generated_Image-Text_Detector
+  
+# 2. Set Up a Virtual Environment (Recommended)
+  It is best practice to use a virtual environment to keep dependencies organized:
+
+Windows:
+
+  Bash
+  python -m venv venv
+  .\venv\Scripts\activate
+  
+Mac/Linux:
+
+  Bash
+  python3 -m venv venv
+  source venv/bin/activate
+  
+# 3. Install Required Dependencies
+Install the necessary Python libraries used in the project:
+
+  Bash
+  pip install streamlit torch torchvision pillow numpy
+
+Streamlit: Powers the web interface and interactive dashboard.
+
+
+PyTorch & TorchVision: Used for the custom CNN deep learning model.
+
+
+Pillow (PIL): Handles image processing and analysis.
+
+
+NumPy: Manages numerical operations for detection metrics.
+
+# 4. Run the Application
+Launch the Streamlit server to open the web-based interface:
+
+Bash
+streamlit run app.py
